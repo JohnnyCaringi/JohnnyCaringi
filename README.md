@@ -6,7 +6,6 @@ IT (Cybersecurity) Student
 
 Student at UNA with the goal of graduating from the school's honors college and with an IT degree with a focus on Cybersecurity and a Minor in Computer Science.
 
-* 🌍  I'm based in Birmingham Alabama
 * ✉️  You can contact me at [johncaringijr@gmail.com](mailto:johncaringijr@gmail.com)
 
 ### Skills
